@@ -1,0 +1,11 @@
+{
+  "applinks": {
+       "apps": [],
+        "details": [
+           {
+               "appID":"com.musee_pla.museepassport.stg",
+               "paths":[ "*" ]
+           }
+         ]
+    }
+}
