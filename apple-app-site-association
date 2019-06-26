@@ -7,14 +7,5 @@
                "paths":[ "*" ]
            }
          ]
-    },
-  "webcredentials": {
-       "apps": [],
-        "details": [
-           {
-               "appID":"YMN9UG8AZ6.com.musee-pla.museepassport.stg",
-               "paths":[ "*" ]
-           }
-         ]
     }
 }
